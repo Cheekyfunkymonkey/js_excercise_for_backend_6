@@ -1,0 +1,56 @@
+a {
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+  padding-right: 40px;
+}
+
+ul li {
+  background: #fff;
+  text-align: center;
+  list-style: none;
+  display: inline-block;
+  margin: 5px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+  width: 50%;
+}
+
+ul li:hover {
+  background: #6699ff;
+}
+
+button {
+  display: inline-block;
+}
+
+.container {
+  text-align: center;
+}
+
+.link {
+  background: #fff;
+  text-align: center;
+  text-decoration: none;
+  list-style: none;
+  display: inline-block;
+  margin: 5px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+  width: 50%;
+}
+
+.link:hover {
+  background: #6699ff;
+}
